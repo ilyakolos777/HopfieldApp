@@ -36,7 +36,7 @@
    Вы можете получить файлы проекта двумя способами:
    * **Способ А :** Откройте терминал и клонируйте репозиторий:
      ```bash
-[     git clone [https://github.com/ilyakolos777/HopfieldApp.git](https://github.com/ilyakolos777/HopfieldApp.git)](https://github.com/ilyakolos777/HopfieldApp)
+     git clone https://github.com/ilyakolos777/HopfieldApp
      ```
    * **Способ Б :** На странице GitHub нажмите зеленую кнопку **«Code»** и выберите **«Download ZIP»**. После скачивания **обязательно извлеките (распакуйте)** папку из архива в любое удобное место на компьютере.
 
