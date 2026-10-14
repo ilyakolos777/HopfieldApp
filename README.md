@@ -52,9 +52,10 @@
    python3 -m venv .venv
    source .venv/bin/activate
    ```
+   или
    
-   # Для пользователей Windows:
    ```bash
+   # Для пользователей Windows:
    python -m venv .venv
    .venv\Scripts\activate
    ```
